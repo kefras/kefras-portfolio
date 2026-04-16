@@ -55,8 +55,11 @@ GitHub
 📂 Folder Structure
 
 cloud-devops-portfolio/
+
 │── index.html
+
 │── screenshot.png
+
 │── README.md
 
 ⸻
