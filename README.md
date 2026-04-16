@@ -24,7 +24,7 @@ This project showcases my growing hands-on skills in:
 📸 Project Preview
 
 
-![Portfolio Preview](portfolio.png)
+![Portfolio Preview](screenshot.png)
 
 ⸻
 
@@ -90,7 +90,7 @@ Steps Followed
       "Effect": "Allow",
       "Principal": "*",
       "Action": "s3:GetObject",
-      "Resource": "arn:aws:s3:::YOUR-BUCKET-NAME/*"
+      "Resource": "arn:aws:s3:::Kefas-portfolio/*"
     }
   ]
 }
