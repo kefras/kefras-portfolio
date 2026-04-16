@@ -1,4 +1,4 @@
-☁️ Kefas Etiku Francis – Cloud/DevOps Portfolio Website
+** ☁️ Kefas Etiku Francis – Cloud/DevOps Portfolio Website **
 
 A modern responsive personal portfolio website built with HTML5 + CSS3 and deployed on Amazon S3 Static Website Hosting.
 
