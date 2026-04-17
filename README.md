@@ -24,7 +24,7 @@ This project showcases my growing hands-on skills in:
 * **📸 Project Preview**
 
 
-![Portfolio Preview](Screenshot 2026-04-15 184838.png)
+![Portfolio Preview](Screenshot.png)
 
 ⸻
 
