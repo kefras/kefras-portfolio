@@ -22,9 +22,9 @@ This project showcases my growing hands-on skills in:
 ⸻
 
 * **📸 Project Preview**
-
-
-![Portfolio Preview](./images/Screenshot.png.png)
+<p align="center">
+  <img src="./images/Screenshot.png.png" width="600"/>
+</p>
 
 ⸻
 
